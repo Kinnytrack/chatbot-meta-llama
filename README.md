@@ -15,3 +15,15 @@
 - Use Any API testing tools to interact and chat with the model
 
 # Deployment of the Model on Akash Netwoork
+- Once deployed, you can access your application via the global IP provided by the Akash network.
+- Use the code from [here](https://github.com/Kinnytrack/chatbot-meta-llama/blob/main/index.js) to interact with the Model.
+- After the model is loaded replace `http://API_ENDPOINT/v1/chat/completions` with the link you get from leases tab.
+- Ask the model anything you want.
+
+# Licences
+This project is licensed under the MIT License. See the [LICENSE](https://huggingface.co/meta-llama/Meta-Llama-3-70B/blob/main/LICENSE) file for details.
+
+## Acknowledgements
+ - [Hugging Face](https://huggingface.co/)
+ - [Akash Network](https://akash.network/)
+ - [Meta-Llama-3-70B-Instruct](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct)
