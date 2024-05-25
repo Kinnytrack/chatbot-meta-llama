@@ -15,6 +15,7 @@
 - Check the logs for any updates
 - After the model is downloaded use the api code for calling and sending the requests.
 - Use Any API testing tools to interact and chat with the model
+- I'm Using NodeJs to interact with the model.
 
 # Deployment of the Model on Akash Netwoork
 - Once deployed, you can access your application via the global IP provided by the Akash network.
