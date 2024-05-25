@@ -1,5 +1,7 @@
 # Chatbot Using meta-llama/Meta-Llama-3-70B-Instruct.
 # Run on Akash Network
+- you'll need a wallet with AKT tokens
+- Now, go to (http://console.akash.network)
 - Here is the [model](https://huggingface.co/meta-llama/Meta-Llama-3-70B-Instruct) used.
 - Docker installed on your local machine( In this case we do not need docker installed as we already have a docker image).
 - Akash CLI installed and configured.
