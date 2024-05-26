@@ -18,9 +18,12 @@
 - I'm Using NodeJs to interact with the model.
 
 # Deployment of the Model on Akash Netwoork
+- [Link](https://www.youtube.com/watch?v=qgmMTPXAhbQ) to the Video of the deployment.
 - Once deployed, you can access your application via the global IP provided by the Akash network.
 - Use the code from [here](https://github.com/Kinnytrack/chatbot-meta-llama/blob/main/index.js) to interact with the Model.
 - After the model is loaded replace `http://API_ENDPOINT/v1/chat/completions` with the link you get from leases tab.
+- Open the browser after running the node.js script in vscode and type `http://localhost:8000` in browser and replace the port with the one you get in the vs code terminal.
+- After running node.js on vs code open localhost in browser and reload and switch back to vscode you'll get the reply from chatbot.
 - Ask the model anything you want.
 
 # Licences
