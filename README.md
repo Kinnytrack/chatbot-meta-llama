@@ -6,6 +6,7 @@
 - Docker installed on your local machine( In this case we do not need docker installed as we already have a docker image).
 - Akash CLI installed and configured.
 - A Hugging Face account with acces to the Meta/llama models
+- Apply for access to the models on HF account
 - A Hugging Face (HF) token with read access
 - Use the SDL From [here]()
 - Replace `hf_your_token` with your Hugging Face token in the SDL
